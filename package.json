@@ -1,0 +1,23 @@
+{
+  "name": "asymmetrical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass --watch sass:css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuvedunyel/asymmetrical.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tuvedunyel/asymmetrical/issues"
+  },
+  "homepage": "https://github.com/Tuvedunyel/asymmetrical#readme",
+  "dependencies": {
+    "sass": "^1.38.2"
+  }
+}
